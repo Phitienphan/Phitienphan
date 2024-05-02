@@ -39,17 +39,23 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=plastic&logo=adobe-photoshop)
-  
+
+
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Phitienphan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Phitienphan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phitienphan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center" >
+<a href="https://github.com/Phitienphan">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Phitienphan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phitienphan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</a>
+</p>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Phitienphan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
