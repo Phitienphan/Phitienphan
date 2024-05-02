@@ -1,7 +1,10 @@
 ## Hey there 👋 I'm Tiến.
 
+<img width="30%" align="left" alt="Github" src="https://github.com/Phitienphan/Phitienphan/assets/133135507/ed85d377-6810-4daf-b76a-bffd83998e6f" />
+
+I'm a Automation and Control student who is passionate about solving electrical circuits, writing code, automating robots, solving problems and learning foreign languages.
+
 # 💫About Me :
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 Exploring new technologies and developing software solutions and quick hacks.
 Studying Computer Science at Ho Chi Minh University of Technology.
