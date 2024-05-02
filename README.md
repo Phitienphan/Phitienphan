@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Tiến.
 
-<img width="30%" align="left" alt="Github" src="https://github.com/Phitienphan/Phitienphan/assets/133135507/ed85d377-6810-4daf-b76a-bffd83998e6f" />
+<img width="40%" align="left" alt="Github" src="https://github.com/Phitienphan/Phitienphan/assets/133135507/ed85d377-6810-4daf-b76a-bffd83998e6f" />
 
   _I'm a student of electrical department who is passionate about solving electrical circuits, writing code, automating robots, solving problems and learning foreign languages.
 
@@ -11,11 +11,9 @@
 - 📚 &nbsp; Currently studying robot design, microcontroller embedded programming, Linux Camera and practicing foreign language skills.
 - 👯 &nbsp; Looking for an electrical and electronics internship position.
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100041841216394) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/phitien243/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tien-phan-doan-phi-01ba3825a/) 
 
 ### 🛠 &nbsp;Tech Stack
 - 💻 &nbsp;
@@ -53,7 +51,9 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100041841216394) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/phitien243/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tien-phan-doan-phi-01ba3825a/) 
 ---
 [![](https://visitcount.itsvg.in/api?id=Phitienphan&icon=0&color=0)](https://visitcount.itsvg.in)
 
