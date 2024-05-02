@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Tiến.
 
-<img width="40%" align="left" alt="Github" src="https://github.com/Phitienphan/Phitienphan/assets/133135507/ed85d377-6810-4daf-b76a-bffd83998e6f" />
+<img width="35%" align="left" alt="Github" src="https://github.com/Phitienphan/Phitienphan/assets/133135507/ed85d377-6810-4daf-b76a-bffd83998e6f" />
 
   _I'm a student of electrical department who is passionate about solving electrical circuits, writing code, automating robots, solving problems and learning foreign languages.
 
@@ -11,7 +11,7 @@
 - 📚 &nbsp; Currently studying robot design, microcontroller embedded programming, Linux Camera and practicing foreign language skills.
 - 👯 &nbsp; Looking for an electrical and electronics internship position.
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
 
 
