@@ -1,3 +1,5 @@
+## Hey there 👋 I'm Tiến.
+
 # 💫About Me :
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
@@ -5,6 +7,8 @@ Exploring new technologies and developing software solutions and quick hacks.
 Studying Computer Science at Ho Chi Minh University of Technology.
 Currently learning frontend web development using ReactJS, Redux, CSS frameworks.
 Looking for a Software Development Internship.
+
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100041841216394) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/phitien243/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tien-phan-doan-phi-01ba3825a/) 
