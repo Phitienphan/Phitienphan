@@ -2,7 +2,7 @@
 
 <img width="35%" align="left" alt="Github" src="https://github.com/Phitienphan/Phitienphan/assets/133135507/ed85d377-6810-4daf-b76a-bffd83998e6f" />
 
-  _I'm a student of electrical department who is passionate about solving electrical circuits, writing code, automating robots, solving problems and learning foreign languages.
+  I'm a student of electrical department who is passionate about solving electrical circuits, writing code, automating robots, solving problems and learning foreign languages.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
